@@ -7,4 +7,5 @@ pipeline {
             }
         }
     }
+    "this is awesome in building"
 }
